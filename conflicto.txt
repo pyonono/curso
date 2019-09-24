@@ -1,5 +1,5 @@
 Este es mi primer ejercicio, y de momento solo tiene una línea.
-Esta segunda línea se ha anadido directamente en github
+Esta segunda línea se ha anadido directamente en github.
 
 
 
